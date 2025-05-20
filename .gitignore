@@ -1,0 +1,15 @@
+#Fichier à ignorer :
+requirements.txt
+Imdb.ipynb
+app.py
+
+# Ignorer les extensions
+*.txt
+*.env
+*.log
+
+# Ignorer les répertoires :
+.github/
+.vscode/
+dossier_temporaire/
+node_modules/
